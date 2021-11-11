@@ -39,6 +39,6 @@ If you find our paper useful, please cite the following:
 ```
 ### Contact
 
-For questions, please contact [Meghana Bhat](meghu2791.github.io).
+For questions, please contact [Meghana Bhat](https://meghu2791.github.io/).
 
 
