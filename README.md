@@ -13,6 +13,7 @@ To run the code, please install the packages from ```requirements.txt``` using t
 
 We used Avocado corpus to label toxic instances in this work. Avocado corpus is distributed under [LDC license](https://www.ldc.upenn.edu/data-management/using/licensing). 
 We have provided the email id, span of text (start and end index columns) from the email body and the corresponding label.
+A ```tsv``` file created after parsing the corpus for provided email id body text in ```data/avacado``` folder can be used for training models. Please note that the text column of email body parsed from the corpus should be named as ```comment```. 
 
 #### Running baselines
 To run the baselines, run ```python main.py```
